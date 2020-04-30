@@ -36,8 +36,8 @@
     "liquid": "4.0.1",
     "mailgun-js": "0.22.0",
     "method-override": "3.0.0",
-    "mjml": "^4.6.2",
-    "node-fetch": "^2.6.0",
+    "mjml": "4.6.2",
+    "node-fetch": "2.6.0",
     "ts-httpexceptions": "4.1.0"
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "@types/mailgun-js": "0.22.4",
     "@types/method-override": "0.0.31",
     "@types/node": "13.13.4",
-    "@types/node-fetch": "^2.5.7",
+    "@types/node-fetch": "2.5.7",
     "concurrently": "5.2.0",
     "nodemon": "2.0.3",
     "ts-node": "8.9.1",
